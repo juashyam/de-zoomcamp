@@ -16,9 +16,9 @@ COPY pyproject.toml .python-version uv.lock ./
 RUN uv sync --locked
 
 # Copy application code
-COPY pipeline.py ./
+COPY ingest_data.py ./
 
 # Set entry point
 # ENTRYPOINT ["uv", "run", "pipeline.py"]
 # With ENV PATH, we don't need to specify uv explicitly
-ENTRYPOINT ["python", "pipeline.py"]
+ENTRYPOINT ["python", "ingest_data.py"]
