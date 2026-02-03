@@ -19,4 +19,4 @@ services:
     volumes:
       - /Users/juashyam/dexter/lab/de_journey/de-zoomcamp/volumes/pgadmin_data:/var/lib/pgadmin
     ports:
-      - "8085:80"
+      - "8888:80"
