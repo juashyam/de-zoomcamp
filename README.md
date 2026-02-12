@@ -4,3 +4,6 @@ This repository contains my completed assignments for the DataTalks.Club [Data E
 
 ## Homework 1: Docker, SQL and Terraform
 - [Homework URL](assignments/01-docker-terraform/README.md)
+
+## Homework 2: Workflow Orchestration
+- [Homework URL](assignments/02-workflow-orchestration/README.md)
