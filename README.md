@@ -7,3 +7,6 @@ This repository contains my completed assignments for the DataTalks.Club [Data E
 
 ## Homework 2: Workflow Orchestration
 - [Homework URL](assignments/02-workflow-orchestration/README.md)
+
+## Homework 3: Data Warehouse
+- [Homework URL](assignments/03-data-warehouse/README.md)
